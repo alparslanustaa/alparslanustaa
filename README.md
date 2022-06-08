@@ -31,7 +31,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Alparslanustaa/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alparslanustaa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alparslanusta&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alparslanustaa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alparslanustaa&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -41,4 +41,4 @@
 alparslanustaa/alparslanustaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->      
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Alparslanustaa's Activity Graph" src="https://alparslanustaa-activity-graph.herokuapp.com/graph/?username=Alparslanustaa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Alparslan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alparslanustaa&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/alparslanustaa/github-readme-activity-graph)
