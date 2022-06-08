@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that can give me opportunity to gain more exprerience on developing code...
 - 📫 How to reach me alparslanustaa@gmail.com ...
 
+
 ## 🛠️ Technologies and Tools I use
 
 <div align="center">
@@ -26,7 +27,9 @@
 </p>
 </div>
 
+
 ## 🔥 Streak stats
+
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
