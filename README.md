@@ -43,4 +43,4 @@
 alparslanustaa/alparslanustaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->      
-[![Alparslan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alparslanustaa&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/alparslanustaa/github-readme-activity-graph)
+
